@@ -7,7 +7,7 @@ In addition to module-alias features, you're able to resolve a path from a strin
 Like module-alias, you can make aliases for directories and files, and define custom momdule paths.
 
 ## Disclaimer
-This package isn't garunteed to work nicely, and depends on github repos I have, instead of npm.
+This package isn't guaranteed to work nicely, and depends on github repos I have, instead of npm.
 
 ## Install
 
