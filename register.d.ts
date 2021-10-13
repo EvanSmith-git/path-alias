@@ -4,7 +4,9 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // Modified for path-alias: https://github.com/EvanSmith-git/path-alias
 
-export namespace pathAlias {
+export = pathAlias;
+
+declare namespace pathAlias {
     function pathContainsAlias(path: string, alias: string): boolean;
     function isPathMatchesAlias(path: string, alias: string): boolean;
 
