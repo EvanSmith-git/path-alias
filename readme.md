@@ -4,7 +4,7 @@ path-alias is a drop in replacement for [module-alias](https://github.com/ilearn
 
 In addition to module-alias features, you're able to resolve a path from a string, ex: for fs or path operations.
 
-Like module-alias, you can make aliases for directories and files, and define custom momdule paths.
+Like module-alias, you can make aliases for directories and files, and define custom module paths.
 
 ## Disclaimer
 This package isn't guaranteed to work nicely, and depends on github repos I have, instead of npm.
